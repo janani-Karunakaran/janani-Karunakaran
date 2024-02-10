@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @janani-Karunakaran
 - 👀 I’m interested in Creating Full Stack web applications,Dashboards.
-- 🌱 I’m currently learning Reactjs, Angular 14 and JAVA
+- 🌱 I’m working on JAVA 11, Angular 14 and ReactJs.
 - 📫 Reach me at jananikarunakaran72@gmail.com
 
 <!---
